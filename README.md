@@ -39,11 +39,11 @@ OSE programs and services solve the serious problems plaguing middle-to-lower in
 
 •	Discounted Services.  Discounts of products and services from the top companies who partner with the OSE platform. 
 
-# UNICORN Application
+# UNIFI Application
 
-The UNICORN application shall provide open source services via the internet, or by mobile devices where members can logon and register for benefits and services. In addition, members can particpate in the procurement process for acquiring assets through the voting mechanism within the UNICORN system.  The UNICORN system also provides members with Open Source Accounting functionality which displays OSE NFT asset portfolios as well as capital balances accumilated from coin offerings. The design of the UNICORN software system will consist of mobile and web technologies.  The software development lifecycle will consist of small modulized software components to rapidly excelerate releases. This provides iterative functionality which matures as our products and service offerings mature. The funding to build UNICORN version 1.0 is required prior to beginning open source enconomic campaigns.
+The UNIFI application shall provide open source services via the internet, or by mobile devices where members can logon and register for benefits and services. In addition, members can particpate in the procurement process for acquiring assets through the voting mechanism within the UNIFI system.  UNIFI also provides members with accounting insights, which displays OSE NFT asset portfolios, as well as capital balances accumilated from coin offerings. The design of the UNIFI software system will consist of mobile and web technologies.  The software development lifecycle will consist of releasing small modulized software components to rapidly accelerate releases. This provides iterative functionality, while our products and service offerings mature. The funding to build UNIFI version 1.0 is required prior to beginning open source enconomic campaigns.
 
-The UNICORN software system shall contain the following components:
+The UNIFI software system shall contain the following components:
 
 •	Enrollment
 •	Enrollment Campaign Tracking
@@ -52,6 +52,6 @@ The UNICORN software system shall contain the following components:
 •	Asset Management
 •	Accounting 
 •	Member Services
-•	Member Directory
+•	Member Directory etc.
 
 

@@ -2,7 +2,7 @@
 Open-Source Economics (OSE) will provide exceptional financial platforms for middle-to-lower income families to assist in building wealth absent of generational support. 
 
 Utilizing the principles of blockchain to build open-source economic services, we can create value that can be exchanged between users and providers in a way that is mutually beneficial.  This builds a unique partnership that will create growing value in the areas of new property procurements, product development and/or services. The goal of OSE is to build open-source communities that specifically create opportunities with overwhelming growth potential through business-to-business, business-to-consumer and peer-to-peer services owned by its members.
-# Our GoaL
+# Our Goal
 To provide tangible financial solutions to middle-to-lower income classes using open-source economics.
 
 # Our Vision
